@@ -1,0 +1,36 @@
+.mt-3 {
+    margin-top: 1rem;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-link {
+    text-decoration: none;
+  }
+  
+  .card-link .card {
+    transition: transform 0.2s;
+  }
+  
+  .card-link .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .card ul {
+    padding-left: 20px;
+  }
+  
+  .card ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  

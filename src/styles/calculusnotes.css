@@ -1,0 +1,23 @@
+.note-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .note-content {
+    margin-bottom: 1rem;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  @media (max-width: 1200px) {
+    .container {
+      max-width: 100%;
+    }
+  }
+  

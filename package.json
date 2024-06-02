@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "A personal website showcasing Shreya's learning journey and projects.",
-  "homepage": "https://shreyapatill.github.io/shreyas-learning-portfolio",
+  "homepage": "https://shreyapatill.github.io/learning-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

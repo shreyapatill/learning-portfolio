@@ -1,3 +1,5 @@
+# Introduction and Basics
+
 ## What is Python?
 
 **Versatile Language**:
@@ -44,9 +46,9 @@
 
 - **Hello World Example**:
 
-```python
-print("Hello World")  # Output: Hello World
-```
+  ```python
+  print("Hello World")  # Output: Hello World
+  ```
 
 ### Indentation
 

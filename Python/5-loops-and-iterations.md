@@ -1,5 +1,3 @@
-Sure, here is the markdown version of your notes:
-
 # Loops and Iterations
 
 ## Python Loops
